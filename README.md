@@ -4,3 +4,5 @@ fuga
 fuga  
 piyo
 piyo  
+pika
+pika  
